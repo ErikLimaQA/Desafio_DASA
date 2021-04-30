@@ -96,7 +96,7 @@ GEM
     rainbow (3.0.0)
     rcodetools (0.8.5.0)
     regexp_parser (1.7.1)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -141,8 +141,6 @@ GEM
     watir (6.16.5)
       regexp_parser (~> 1.2)
       selenium-webdriver (~> 3.6)
-    watir-webdriver (0.9.9)
-      selenium-webdriver (>= 2.46.2)
     xpath (3.2.0)
       nokogiri (~> 1.8)
     yml_reader (0.7)
@@ -162,7 +160,6 @@ DEPENDENCIES
   rubocop
   selenium-webdriver
   site_prism
-  watir-webdriver
 
 BUNDLED WITH
    2.1.4
